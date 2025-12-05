@@ -1,0 +1,1 @@
+ENOC Mini-App es una aplicación web ligera diseñada para permitir compras directas del token ENOC en la red Polygon mediante conexión con wallets Web3 como MetaMask, Trust Wallet o cualquier billetera compatible con WalletConnect. Incluye un sistema simple de intercambio USDT→ENOC.
